@@ -1,10 +1,10 @@
 {
   "passwords": [
     {
-      "key": "UserToolEilia",
-      "expire": "2d",
+      "key": "UserTool_Eilia_35h",
+      "expire": "35h",
       "created": 1760133599000,
-      "active": false
+      "active": true
     }
   ]
 }
