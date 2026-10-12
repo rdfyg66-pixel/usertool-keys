@@ -2,7 +2,7 @@
   "passwords": [
     {
       "key": "UserTool_Eilia_35h",
-      "expire": "35h",
+      "expire": "70h",
       "created": 1791541885567,
       "active": true
     }
